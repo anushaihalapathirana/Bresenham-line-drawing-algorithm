@@ -44,6 +44,3 @@ exports.bresenhamLinePoints = function(startX, startY, endX, endY) {
     }
     return outputArray;
 }
-
-const res = this.bresenhamLinePoints(2,2,12,-2)
-console.log(res)
