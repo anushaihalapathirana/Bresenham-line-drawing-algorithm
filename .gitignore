@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@anushaihalapathirana 
-anushaihalapathirana
-/
-Bresenham-line-drawing-algorithm
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Bresenham-line-drawing-algorithm/.gitignore
-@anushaihalapathirana
-anushaihalapathirana Initial commit
-Latest commit f8cd052 4 minutes ago
- History
- 1 contributor
-104 lines (76 sloc)  1.57 KB
   
 # Logs
 logs
@@ -133,16 +104,4 @@ dist
 
 # TernJS port file
 .tern-port
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
