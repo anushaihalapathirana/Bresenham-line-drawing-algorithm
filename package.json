@@ -1,6 +1,6 @@
 {
   "name": "bresenham-line-algorithm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bresenham line drawing algorithm",
   "main": "src/index.js",
   "scripts": {
